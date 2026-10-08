@@ -21,7 +21,7 @@ public sealed class SharedExplorationPlugin : BaseUnityPlugin
 	// The id before 1.1.0, which named the settings file.
 	private const string OldGuid = "local.sharedexploration";
 
-	public const string Version = "1.1.0";
+	public const string Version = "1.1.1";
 
 	// Minimap.Version.SharedMap the map table data is written in (explored bools + pins with author).
 	private const int SharedMapVersion = 3;
