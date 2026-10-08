@@ -1,0 +1,9 @@
+{
+  "name": "SharedExploration",
+  "version_number": "@VERSION@",
+  "website_url": "https://github.com/Shuiei/SharedExploration",
+  "description": "Server-side: every map table gets the areas all players have explored, so Read on any table shows everyone's map. Players need nothing.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
